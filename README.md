@@ -1,4 +1,4 @@
-# DB_Update_Analysis
+# Access Database Updating and On-demand Analytics Interface
 Continued learning project.  Tkinter program for updating database entries and on-demand analytics.
 
 <b> Step I: Develop program for entering new database entries. </b><br>
